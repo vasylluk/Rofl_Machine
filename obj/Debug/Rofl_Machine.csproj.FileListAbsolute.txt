@@ -1,0 +1,7 @@
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\bin\Debug\Rofl_Machine.exe.config
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\bin\Debug\Rofl_Machine.exe
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\bin\Debug\Rofl_Machine.pdb
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\obj\Debug\Rofl_Machine.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\obj\Debug\Rofl_Machine.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\obj\Debug\Rofl_Machine.exe
+C:\Users\vasyl\source\repos\Rofl_Machine\Rofl_Machine\obj\Debug\Rofl_Machine.pdb
